@@ -1,4 +1,4 @@
-# Algoritmos-de-Ordena-o
+# Algoritmos-de-Ordenação
 Trabalhos relacionados à disciplina Projeto e análise de Algoritmos
 <Metodologia>
 -Escrita e Leitura em Arquivo
